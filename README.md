@@ -1,2 +1,2 @@
 # sentiment-analysis-Pytorch
-Udacity Machine Learning Engineer NanoDegree Project_1
+Udacity Machine Learning Engineer NanoDegree Project 1
